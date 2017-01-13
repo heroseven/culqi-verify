@@ -1,7 +1,4 @@
 
 ## Check CULQI Processing
 
-Las variables que se tienen que considerar son:
-
-- Moneda
-- Tipo de tarjeta
+Aplicación probada y depurada: manejo de timeout, manejo de excepciones, mensajes de ayuda, considerar las respuestas del api para posteriores desarrollos.                                                                         
